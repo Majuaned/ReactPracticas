@@ -12,7 +12,7 @@ function App() {
   return ( //siempre los return debe estar dentro de un div, y  todo lo q esta adentro es lo q se mostrará...
   // count is {count} dentro de las llaves está lo q se v a a mostrar
     <div>
-      <Saludar name="Agustin" apellido="Salazar">
+      <Saludar name="Agustin" apellido="Salazara">
         <h1>alumno</h1>
         <p>.arce..</p>
       </Saludar>
